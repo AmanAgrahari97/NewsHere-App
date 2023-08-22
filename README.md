@@ -3,4 +3,4 @@ NewsHere is a news app created using React and NewsAPI. It can be used to grab q
 
 Here are some screenshots of my website -
 ![Screenshot (225)](https://github.com/AmanAgrahari97/NewsHere-App/assets/88241622/48779d17-a77e-48a3-b64a-1011decca5e3)# 
-![Screenshot (111)](https://user-images.githubusercontent.com/88241622/217080850-7f1bbc3e-5649-45f8-91c8-6c60b9a8daf2.png)
+![Screenshot (224)](https://github.com/AmanAgrahari97/NewsHere-App/assets/88241622/4640dbb6-ff78-4c9e-bd29-dc7049d8a648)
